@@ -1,0 +1,5 @@
+S1|Ahmad Daniel|ahmad.daniel@example.com|No. 14 Jalan Setia Prima U13/4, Shah Alam, Selangor|012-3456789|Student|2026-01-15|pass1234
+S2|Nurul Aina|nurul.aina@example.com|Lot 88 Lorong Melati 3, Petaling Jaya, Selangor|019-8765432|Student|2026-02-20|pass1234
+S3|Tan Wei Ming|weiming.tan@example.com|27 Jalan Bukit Bintang, Kuala Lumpur|016-2345678|Student|2026-03-10|pass1234
+S4|Priya Nair|priya.nair@example.com|102 Persiaran Raja Muda Musa, Klang, Selangor|011-23456789|Student|2026-04-05|pass1234
+S5|Chong Jia Yi|jiayi.chong@example.com|55 Jalan Sultan Azlan Shah, Ipoh, Perak|017-6543210|Student|2026-05-12|pass1234

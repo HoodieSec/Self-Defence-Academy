@@ -1,0 +1,2 @@
+FR1|F2|2026-11-25|A water leak|There is a pipe leak on the area that causes student to slips|Solved
+FR2|F3|2026-11-25|Pullup bar missing|someone stole our pullup bar in a plain sight|Pending

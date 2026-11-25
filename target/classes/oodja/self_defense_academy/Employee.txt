@@ -1,0 +1,10 @@
+E1|Austin|austin@mail.com|1 Oak Avenue|0123456781|Manager|pass1234
+E2|Sara Lim|sara@mail.com|12 Maple Street|0123456782|Administrator|pass1234
+E3|David|david@mail.com|45 Pine Road|0123456783|Administrator|pass1234
+E4|Priya Das|priya@mail.com|52 Poplar Road|0123456790|Facilities Officer|pass1234
+E5|Jonas Berg|jonas@mail.com|76 Hazel Close|0123456791|Attendance Officer|pass1234
+E6|Bruce Wayne|bruce@mail.com|75 Gotham City|01234567|Instructor|pass1234
+E7|Tom Cruise|Tom@mail.com|1 Cadia Riverlands|015647893|Instructor|pass1234
+E8|David Goggins|Goggins@mail.com|12 Second Street|0178954632|Instructor|pass1234
+E9|Jackie Chan|Chan@mail.com|23 Bamboo Road|045621389|Instructor|pass1234
+E10|Yuji Itadori|Itadori@mail.com|12 Tokyou Street|04655321189|Instructor|pass1234

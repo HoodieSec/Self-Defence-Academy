@@ -1,0 +1,7 @@
+EQ1|Multipurpose Dumbell|Gym|10|F5
+EQ2|Pullup Bar|Calistenics|3|F3
+EQ3|Boxing Glove|Martial Arts|10|F4
+EQ4|Head Guard|Martial Arts|10|F4
+EQ5|Mattress|Martial Arts|10|F2
+EQ6|Restraining Rubber|Running|10|F6
+EQ7|Running Cone|Running|10|F6
