@@ -1,4 +1,0 @@
-C1|E10|Cursed technique Mastery|10:00|13:00|10|200.00|F4
-C2|E8|Stamina and Endurance enchancement|07:00|09:00|6|200.00|F6
-C3|E7|Physical Balance and Body Control|09:00|11:00|10|300.00|F3
-C4|E9|Agility, Reflex, and Instinct|11:00|13:00|15|400.00|F3

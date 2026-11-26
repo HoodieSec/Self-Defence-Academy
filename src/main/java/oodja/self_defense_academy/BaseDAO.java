@@ -2,15 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package oodja.self_defense_academy;
-import java.io.File;
+package com.mycompany.java_assigment;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 import java.util.List;
-
+import java.io.*;
+import java.nio.file.*;
 import javax.swing.JOptionPane;
 
 /**
@@ -88,7 +85,7 @@ abstract public class BaseDAO {
         }
         else if (found){
             Files.write(Path.of(fileName()), new_rows);
-            JOptionPane.showMessageDialog(null, "Deleted Succesfully");
+            JOptionPane.showMessageDialog(null, "Deleted Succesfully (May need to refresh)");
         }
     }
     
@@ -114,7 +111,7 @@ abstract public class BaseDAO {
         }
         else if (found){
             Files.write(Path.of(fileName()), new_rows);
-            JOptionPane.showMessageDialog(null, "Updated Succesfully");
+            JOptionPane.showMessageDialog(null, "Updated Succesfully (May need to refresh)");
         }
     }
     // Make sure give the formatted line before calling 
